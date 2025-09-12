@@ -80,7 +80,7 @@ MENUITEMS = (
             ("Projets personnels", "/pages/projets-personnels"),                             # Optionnel
             ("Certifications complémentaires", "/pages/certifications-complementaires") # Optionnel
         ),
-        "Accédez aux projets et TP réalisés pendant ma formation et à mes projets personnels.", "success"
+        "Accédez aux projets et TP réalisés pendant ma formation et à mes projets personnels.", "info"
      ),
 
     ("Veille techno.", "/ma-veille", "broadcast-pin",
@@ -91,7 +91,7 @@ MENUITEMS = (
         ("Liste des auteurs", "/authors"),
         ("Liste des mots clés", "/tags")
         ),
-        "Consultez les articles de veille technologique que j’ai suivis durant cette année.", "warning"
+        "Consultez les articles de veille technologique que j’ai suivis durant cette année.", "primary"
     ),
 
     ("Engagement", "/pages/engagement-etudiant", "people-fill", None, "Présention de mon engagement étudiant.", None),    # Optionnel
