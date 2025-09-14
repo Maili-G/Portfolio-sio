@@ -1,6 +1,7 @@
 Title: Stage SIO1
 
-
+Dans le cadre de notre formation BTS SIO option SLAM, notre objectif était de valider notre stage de fin d'année afin de renforcer nos compétences acquis durant l'année. 
+Mon stage s'est pourtant déroulé dans le domaine SISR. Cela m'a énormément plu car SLAM et SISR dépendent de l'un et de l'autre, et j'ai pu en apprendre plus sur une spécialité qui n'est pas la mienne.
 
 > **<u>FICHE DESCRIPTIVE :</u>**
 
