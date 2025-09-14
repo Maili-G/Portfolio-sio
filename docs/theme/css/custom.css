@@ -136,3 +136,17 @@ Couleur des éléments de navigations :
 p, h1, h2, h3, li{
     color: white;
 }
+
+.card-text {
+    color: black;
+}
+
+.h2 {
+    color: white;
+}
+
+.titre {
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.5px;
+    
+}

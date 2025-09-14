@@ -68,7 +68,7 @@ MENUITEMS = (
             ("Parcours scolaire", "/pages/parcours-scolaire"),
             ("Le BTS SIO", "/pages/bts-sio")
         ),
-        "Découvrez mon parcours scolaire et professionnel.", "primary"
+        "Découvrez mon parcours scolaire et professionnel.\n", "primary"
     ),
 
     ("Réalisations", "/pages/realisations", "check2-square",
@@ -80,7 +80,7 @@ MENUITEMS = (
             ("Projets personnels", "/pages/projets-personnels"),                             # Optionnel
             ("Certifications complémentaires", "/pages/certifications-complementaires") # Optionnel
         ),
-        "Accédez aux projets et TP réalisés pendant ma formation et à mes projets personnels.", "info"
+        "Accédez aux projets et TP réalisés pendant ma formation et à mes projets personnels.", "primary"
      ),
 
     ("Veille techno.", "/ma-veille", "broadcast-pin",
