@@ -147,6 +147,6 @@ p, h1, h2, h3, li{
 
 .titre {
     -webkit-text-stroke-color: black;
-    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-width: 0.3px;
     
 }
